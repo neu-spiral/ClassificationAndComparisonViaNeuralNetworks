@@ -1,6 +1,6 @@
 # Classification and Comparison via Neural Networks
 The code in this repository implements a combined neural network architecture that is trained on (and can be used to estimate) both class and pairwise comparison labels. Details can be found in the paper:
-> Classification and Comparison via Neural Networks. Ilkay Yildiz, Peng Tian, Jennifer Dy, Deniz Erdogmus, James Brown, Jayashree Kalpathy-Cramer, Susan Ostmo, J. Peter Campbell, Michael F. Chiang, Stratis Ioannidis. Under submission to Elsevier Journal of Neural Networks.
+> Classification and Comparison via Neural Networks. Ilkay Yildiz, Peng Tian, Jennifer Dy, Deniz Erdogmus, James Brown, Jayashree Kalpathy-Cramer, Susan Ostmo, J. Peter Campbell, Michael F. Chiang, Stratis Ioannidis. Accepted to Elsevier Journal of Neural Networks.
 
 Implementation is in Python, using the Keras library.
 
@@ -20,7 +20,7 @@ From this point on, details about each file are provided:
 
 # Citing This Paper
 Please cite the following paper if you intend to use this code for your research.
-> Classification and Comparison via Neural Networks. Ilkay Yildiz, Peng Tian, Jennifer Dy, Deniz Erdogmus, James Brown, Jayashree Kalpathy-Cramer, Susan Ostmo, J. Peter Campbell, Michael F. Chiang, Stratis Ioannidis. Under submission to Elsevier Journal of Neural Networks.
+> Classification and Comparison via Neural Networks. Ilkay Yildiz, Peng Tian, Jennifer Dy, Deniz Erdogmus, James Brown, Jayashree Kalpathy-Cramer, Susan Ostmo, J. Peter Campbell, Michael F. Chiang, Stratis Ioannidis. Accepted to Elsevier Journal of Neural Networks.
 
 # Acknowledgements
 Our work is supported by NIH (R01EY019474, P30EY10572), NSF (SCH-1622542 at MGH; SCH-1622536 at Northeastern; SCH-1622679 at OHSU), and by unrestricted departmental funding from Research to Prevent Blindness (OHSU).

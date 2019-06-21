@@ -23,4 +23,4 @@ Please cite the following paper if you intend to use this code for your research
 > Classification and Comparison via Neural Networks. Ilkay Yildiz, Peng Tian, Jennifer Dy, Deniz Erdogmus, James Brown, Jayashree Kalpathy-Cramer, Susan Ostmo, J. Peter Campbell, Michael F. Chiang, Stratis Ioannidis. Accepted to Elsevier Journal of Neural Networks.
 
 # Acknowledgements
-Our work is supported by NIH (R01EY019474, P30EY10572), NSF (SCH-1622542 at MGH; SCH-1622536 at Northeastern; SCH-1622679 at OHSU), and by unrestricted departmental funding from Research to Prevent Blindness (OHSU).
+Our work is supported by NIH (R01EY019474), NSF (SCH-1622542 at MGH; SCH-1622536 at Northeastern; SCH-1622679 at OHSU), and by unrestricted departmental funding from Research to Prevent Blindness (OHSU).

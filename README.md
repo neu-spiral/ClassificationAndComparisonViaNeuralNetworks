@@ -2,7 +2,7 @@
 The code in this repository implements a combined neural network architecture that is trained on (and can be used to estimate) both class and pairwise comparison labels. Details can be found in the paper:
 > Classification and Comparison via Neural Networks. Ilkay Yildiz, Peng Tian, Jennifer Dy, Deniz Erdogmus, James Brown, Jayashree Kalpathy-Cramer, Susan Ostmo, J. Peter Campbell, Michael F. Chiang, Stratis Ioannidis. Elsevier Journal of Neural Networks, Vol. 118, October 2019, pp. 65-80. https://doi.org/10.1016/j.neunet.2019.06.004
 
-Implementation is in Python, using the Keras library.
+Implementation is in Python, using the Keras library. You can install the dependencies using the ```keras_gpu_env_python_3.yml``` file.
 
 The architecture is evaluated on 4 real-life datasets containing both class and comparison labels: GIFGIF Happiness, GIFGIF Pleasure, ROP, and FAC. The corresponding code files are in the folder named `Combined Neural Network`. Moreover, 4 competing methods combining both class and comparison labels are implemented: Logistic regression, SVM, ensemble of Logistic and SVM, and another deep learning approach. The corresponding code files are in the folder named `Competitors`. Finally, in the `Single Task Baseline` folder, a special case when the classification and comparison networks are identical is implemented.
 
